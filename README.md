@@ -22,7 +22,7 @@ Materials for the paper can be found here.
    mCherry filter set from Thorlabs ([MDF-MCHA](https://www.thorlabs.com/thorproduct.cfm?partnumber=MDF-MCHA)) \
    Filter cube ([DFM1](https://www.thorlabs.com/thorproduct.cfm?partnumber=DFM1)) \
    565nm, 1000mA LED ([M565L3](https://www.thorlabs.com/thorproduct.cfm?partnumber=M565L3)) \
-   1200 mA LED driver ([LEDD1B](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2616&pn=LEDD1B) 
+   1200 mA LED driver ([LEDD1B](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2616&pn=LEDD1B)) 
    
    
    
