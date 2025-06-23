@@ -13,9 +13,9 @@ Materials for the paper can be found here.
 5. **Optrode** \
    Aluminum wedges. Cut in our machine shop. \
    Interconnecting sleeves from Thorlabs (part number adaf2) \
-   Fiber Optic Cannula,2.5 mm OD, Ceramic, 400µm,0.50NA ([CFMC54L05](https://www.thorlabs.com/search/thorsearch.cfm?search=CFMC54L05)) \ 
-   Loctite Super Glue Ultra Liquid Control 
-6. **In-vivo epifluorescence imaging** \
+   Loctite Super Glue Ultra Liquid Control \
+   Fiber Optic Cannula,2.5 mm OD, Ceramic, 400µm,0.50NA ([CFMC54L05](https://www.thorlabs.com/search/thorsearch.cfm?search=CFMC54L05))     
+7. **In-vivo epifluorescence imaging** \
    PCO Panda 4.2 monochrome CMOS camera. \
    60mm railcage components \
    Tube lens \
