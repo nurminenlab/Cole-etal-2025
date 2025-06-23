@@ -10,8 +10,10 @@ Materials for the paper can be found here.
    Most of our microdrive holders are 3D printed at Protolabs, but the stainless steel versions are machined in-house. See MDH.stl for a CAD drawing.
 4. **Optrode** \
    Aluminum wedges. Cut in our machine shop. \
-   Mating sleeves from Thorlabs ( \
-5. **In-vivo epifluorescence imaging** \
+   Interconnecting sleeves from Thorlabs (part number adaf2) \
+   Fiber Optic Cannula,2.5 mm OD, Ceramic, 400µm,0.50NA (part number CFMC54L05)
+   Loctite Super Glue Ultra Liquid Control  \
+6. **In-vivo epifluorescence imaging** \
    hav
    
    
