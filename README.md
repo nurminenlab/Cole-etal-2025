@@ -7,9 +7,9 @@ Materials for the paper can be found here.
    This is machined in-house, so there's no CAD file.
 3. **Recording chamber** \
    Our chambers are 3D printed from titanium at Protolabs (www.protolabs.com). \
-   See chamber.stl for CAD drawing and details. 
+   See chamber.step for CAD drawing and details. 
 4. **Microdrive holder** \
-   Most of our microdrive holders are 3D printed at Protolabs, but stainless steel versions are machined in-house. See MDH.stl for a CAD drawing and details.
+   Most of our microdrive holders are 3D printed at Protolabs, but stainless steel versions are machined in-house. See mdh.step for a CAD drawing and details.
 5. **Optrode** \
    Aluminum wedges. Cut in our machine shop. \
    Interconnecting sleeves from Thorlabs (part number adaf2) \
